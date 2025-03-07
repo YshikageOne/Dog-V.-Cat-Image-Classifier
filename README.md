@@ -2,5 +2,5 @@
 My first project that involves Machine Learning 
 
 
-The Dataset involves 12,500 images of dogs and cats /n
+The Dataset involves 12,500 images of dogs and cats <br/>
 https://www.kaggle.com/competitions/dogs-vs-cats/data
